@@ -1,12 +1,13 @@
-<h1 align="left">Hi 👋, I'm Noon</h1>
+<h1 align="left">Hi 👋, This is my profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morninguoou&label=Profile%20views&color=0e75b6&style=flat" alt="morninguoou" /> </p>
 
-<h3 align="left">You can call me Niranoon</h3>
-<h3 align="left">KMITL : Computer Engineering</h3>
-<h2 align="left">🌐 Connect with me</h2>
+<h3 align="left">KMITL : Computer Engineering💻</h3>
+<hr>
+<h2 align="left">🌐 My contact</h2>
 <p align="left">
-<a href="https://fb.com/nirada aromsakaree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirada aromsakaree" height="45" width="60" /></a>
+<a align ="center" href="https://fb.com/nirada aromsakaree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirada aromsakaree" height="45" width="60" /></a>
+<h2>Nirada Aromsakaree</h2>
 <a href="https://instagram.com/niranoo.nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranoo.nn" height="45" width="60" /></a>
 </p>
 
