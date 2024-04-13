@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, Everyone this is my profile</h1>
+<h1 align="left">Hi 👋, Everyone my name is Nirada Aromsakaree</h1>
 
 <h3 align="left">KMITL : Computer Engineering💻</h3>
-<p align="left">Hi My name is Nirada Aromsakaree. I’m a junior at King Mongkut's Institute of Technology Ladkrabang university.(KMITL)</p>
+<p align="left">I’m a junior at King Mongkut's Institute of Technology Ladkrabang university.</p>
 <p align="left">I want to be a Full Stack web developer</p>
 <h2 align="left">🌐 My contact</h2>
 <p align="center">
