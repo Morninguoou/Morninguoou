@@ -62,6 +62,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
       alt="react" width="70" height="70"/>
   </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" 
+      alt="threejs" width="70" height="70"/>
+  </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
       alt="bootstrap" width="70" height="70"/> 
