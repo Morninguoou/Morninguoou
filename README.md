@@ -83,7 +83,7 @@
       alt="dotnet" width="70" height="70"/> 
   </a>
 </p>
-<h2 align="left">Mobile App Development</h2>
+<h2 align="left">MOBILE APP DEVELOPMENT</h2>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
