@@ -3,7 +3,7 @@
 <h3 align="left">KMITL : Computer Engineering💻</h3>
 <p align="left">I’m a junior at King Mongkut's Institute of Technology Ladkrabang university.</p>
 <p align="left">I want to be a Full Stack web developer</p>
-<h2 align="left">🌐 My contact</h2>
+<h2 align="left">My contact</h2>
 <p align="center">
 <a href="https://fb.com/nirada aromsakaree" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
@@ -15,7 +15,7 @@
       niranoo.nn</a>
 </p>
 
-<h2 align="left">✨ PROGRAMMING LANGUAGE</h2>
+<h2 align="left">PROGRAMMING LANGUAGE</h2>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h2 align="left">💻 WEB APPLICATION DEVELOPMENT</h2>
+<h2 align="left">WEB APPLICATION DEVELOPMENT</h2>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -83,7 +83,7 @@
       alt="dotnet" width="70" height="70"/> 
   </a>
 </p>
-<h2 align="left">📱 Mobile App Development</h2>
+<h2 align="left">Mobile App Development</h2>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -95,7 +95,7 @@
   </a>
 </p>
 
-<h2 align="left">📚 OTHER SKILL</h2>
+<h2 align="left">OTHER SKILL</h2>
   <p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
