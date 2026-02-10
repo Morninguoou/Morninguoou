@@ -2,7 +2,7 @@
 
 <h3 align="left">KMITL : Computer Engineering💻</h3>
 <p align="left">I’m a junior at King Mongkut's Institute of Technology Ladkrabang university.</p>
-<p align="left">I want to be a Full Stack web developer</p>
+<p align="left">I want to be a Full Stack web & Mobile developer</p>
 <h2 align="left">My contact</h2>
 <p align="center">
 <a href="https://fb.com/nirada aromsakaree" target="blank">
